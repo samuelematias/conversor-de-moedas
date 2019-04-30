@@ -21,7 +21,7 @@
 ## Sobre o app e o curso
 
 Este aplicativo foi desenvolvido no Curso da Udemy [Criação de Apps Android e iOS com Flutter] (https://www.udemy.com/curso-completo-flutter-app-android-ios/) por [Daniel Ciolfi] (https://www.udemy.com/user/daniel-henrique-ciolfi/). <br/>
-Nessa aplicação foi desenvolvido um simples conversor de moedas, convertando para Real, Dolar e Euro. Os valores das taxas usadas, estão sendo utilizados em tempo real da API de finance da HG brasil (https://hgbrasil.com/status/finance/).
+Nessa aplicação foi desenvolvido um simples conversor de moedas, convertendo para Real, Dolar e Euro. Os valores das taxas usadas, estão sendo utilizados em tempo real da API de finance da HG brasil (https://hgbrasil.com/status/finance/).
 
 <br/>
 
